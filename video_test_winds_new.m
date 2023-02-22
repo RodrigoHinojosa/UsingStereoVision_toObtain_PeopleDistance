@@ -1,5 +1,5 @@
-%% Program Edited by Juan Manuel Jacinto Villegas, Date: 13-07-2016; Version 1
-% email: j.jacinto@sssup.it
+%% Program Edited by Rodrigo Hinojosa, Date: 22-02-2023; Version 2
+% email: rhinojosac1098@gmail.com
 % This script allows to create two independent videos from two cameras (Stero cameras) into
 % an .AVI file format 
 

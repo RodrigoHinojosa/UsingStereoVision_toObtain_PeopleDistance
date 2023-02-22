@@ -1,3 +1,6 @@
+% Script para el procesamiento de los videos L & R y obtencion de la profundidad
+% Modificado por: Rodrigo Hinojosa Cruz 22/02/2023
+%
 %% Load the stereoParameters object.
 
 load('D:\UAEM\MCI\Primer semestre\Programación\StereoVision\Videos\StereoParams11.mat');
