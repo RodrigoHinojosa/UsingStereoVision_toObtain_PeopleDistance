@@ -15,7 +15,7 @@ Step 3.- Open video_test_winds_new/ modify the script with the correct character
 
 Step 4.- Open VideoStereo_Camera/load the package with the stereo params/ load the videos L & R/ Run the scrip/ at this time your pc will need a good processing capacity
 
-For more information visit:
+For more information:
 
 https://la.mathworks.com/videos/camera-calibration-with-matlab-81233.html
 
