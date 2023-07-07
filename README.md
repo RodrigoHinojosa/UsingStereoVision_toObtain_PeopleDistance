@@ -11,7 +11,7 @@ Step 2.- Go to matlab/apps/Setero camera calibrator or Camera calibrator if you 
 
 ![image](https://user-images.githubusercontent.com/78772019/220699019-3a6a13d6-a979-4776-a3d5-afff7f43159f.png)
 
-Step 3.- Open video_test_winds_new/ modify the script with the correct characteristics to your camera and the number of frames to be record/run the script to record the videos L & R
+Step 3.- Open video_test_winds_new/ modify the script with the correct characteristics to your camera and the number of frames to be recorded/run the script to record the videos L & R
 
 Step 4.- Open VideoStereo_Camera/load the package with the stereo params/ load the videos L & R/ Run the scrip/ at this time your pc will need a good processing capacity
 
