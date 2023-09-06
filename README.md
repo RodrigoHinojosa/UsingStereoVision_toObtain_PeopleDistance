@@ -1,5 +1,15 @@
 # StereoVision_HumanDistance
-Files to ejecute snapshots, calibration and video processing
+
+## Software considerations
+
+1.-Matlab 2015 or latest is need it
+2.-Image processing and computer vision toolbox must be implemented
+3.-Stereo camera calibrator app
+4.-Hig computacional capabilities
+
+
+
+## Files to ejecute snapshots, calibration and video processing
 
 Step 1.- Use SnapShotStereo_Camera to generate two files with n number of L & R images.
 
