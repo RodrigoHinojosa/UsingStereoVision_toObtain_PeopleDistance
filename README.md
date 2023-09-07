@@ -10,7 +10,23 @@
 
 4.-Hig computacional capabilities
 
+## Checkerboard
 
+Matlab needs a reference to sizing the space and obtain the stereo params, for that reason, to this proyect we need print a checkerboard with specific diensions, for this example the checkerboard was sizing  with next size:
+
+#### `Pattern size (The checkerboard must be symmetric in Y, but asymmetric in X):` 
+
+-width (X): 9
+
+-Height (Y): 6
+
+#### `Checker size:` 
+
+-width: 2.5
+
+-Height: 2.5
+
+In this repository  you can find one app to create a checkerboard  with different dimensions, you just need download the `Chessboardmaker.zip` file, uncompress and ejecute the `Checkerboardmaker app`.
 
 ## Files to ejecute snapshots, calibration and video processing
 
