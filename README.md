@@ -4,7 +4,7 @@
 
 1.-Matlab 2015 or latest is need it
 
-2.-Image processing and computer vision toolbox must be implemented
+2.-Image processing and computer vision toolbox must be implemented in matlab
 
 3.-Stereo camera calibrator app
 
