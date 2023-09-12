@@ -20,7 +20,7 @@ Matlab needs a reference to sizing the space and obtain the stereo params, for t
 
 -Height (Y): 6
 
-#### `Checker size:` 
+#### `Checker size (you can chose yor own dimensions):` 
 
 -width: 2.5
 
