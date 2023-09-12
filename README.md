@@ -37,10 +37,12 @@ Step 2.- Go to matlab/apps/Setero camera calibrator or Camera calibrator if you 
 ![image](https://user-images.githubusercontent.com/78772019/220697756-2ff77f05-7b45-4630-97e3-436b8db53388.png)
 ![image](https://user-images.githubusercontent.com/78772019/220698161-61fabb4b-d3a2-4ca0-b5b0-9d7ab3c53d6f.png)
 
+![OptionsOk](https://github.com/RodrigoHinojosa/UsingStereoVision_toObtain_PeopleDistance/assets/78772019/41fb4cea-d09a-4072-9973-89668c5cbd75)
 
-![image](https://user-images.githubusercontent.com/78772019/220699019-3a6a13d6-a979-4776-a3d5-afff7f43159f.png)
 
-Step 3.- Open video_test_winds_new/ modify the script with the correct characteristics to your camera and the number of frames to be recorded/run the script to record the videos L & R
+
+
+Step 3.- Open video_test_winds_new/ modify the script with the correct intrinsic and extrinsic characteristics to your camera and number of frames to be recorded/run the script to record the videos L & R
 
 Step 4.- Open VideoStereo_Camera/load the package with the stereo params/ load the videos L & R/ Run the scrip/ at this time your pc will need a good processing capacity
 
