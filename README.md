@@ -2,7 +2,7 @@
 
 ## Software considerations
 
-1.-Matlab 2015 or latest is need it
+1.-Matlab 2015 to 2022a version is need it (doesn't have support in new versions to the moment).
 
 2.-Image processing and computer vision toolbox must be implemented in matlab
 
